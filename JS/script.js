@@ -112,6 +112,58 @@ let songs = [
         name: "BHAKTI SONGS",
         singer: "JUBIN NAUTIYAL",
     },
+    {
+        name: "2 Numbari",
+        singer: "Masoom Sharma",
+    },
+    {
+        name: "5 5 ki height",
+        singer: "Masoom Sharma",
+    },
+    {
+        name: "7 Knaalan",
+        singer: "Happy Raikoti",
+    },
+    {
+        name: "8 Parche",
+        singer: "Gur Sidhu",
+    },
+    {
+        name: "Kothe Upar Kothari",
+        singer: "Ruchika Jangid",
+    },
+    {
+        name: "Jhanjhar",
+        singer: "B Praak",
+    },
+    {
+        name: "Gone Girl",
+        singer: "Badshaah",
+    },
+    {
+        name: "hearthrob",
+        singer: "Veer Sahu",
+    },
+    {
+        name: "HAI RE DOCTORNI",
+        singer: "Manjeet Panchal",
+    },
+    {
+        name: "SUPNA LAAVAN DA",
+        singer: "Nimrat Khaira",
+    },
+    {
+        name: "SHYANO JI",
+        singer: "Raju Punjabi",
+    },
+    {
+        name: "BHARTAR",
+        singer: "Sumit Goswami",
+    },
+    {
+        name: "INDIAN ARMY",
+        singer: "Vishu Puthi",
+    },
 ]
 
 const music = document.querySelector("audio")
